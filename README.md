@@ -11,10 +11,12 @@ It prints and saves the top 20 matches to `top_liquid_trending_coins.txt`.
 - `pycoingecko` and `requests` libraries
 
 Install them with:
+pip install pycoingecko requests
 
 
 ## ▶️ How to Run
 Open Command Prompt in this folder and run:
+python trending_liquid_coins.py
 
 
 ## 📄 Output
