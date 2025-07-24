@@ -1,0 +1,5 @@
+# Ignore output files
+*.txt
+
+# Python cache
+__pycache__/
